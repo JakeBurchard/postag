@@ -18,5 +18,5 @@ Files
 All data from the SUSANNE corpus, compiled by Gregory Sampson et al.
 
 - train.txt: Sample training data 
-- test.txt: Samiple test data
+- test.txt: Sample test data
 - tagset.txt: Explanation of the part-of-speech tags used
