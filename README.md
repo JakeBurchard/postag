@@ -16,6 +16,6 @@ postag.py [mode] [train_data] [test_data]
 Files
 -----
 All data from the SUSANNE corpus, compiled by Gregory Sampson et al.
-1. train.txt -- Sample training data 
-2. test.txt -- Sample test data
-3. tagset.txt -- Explanation of the part-of-speech tags used
+-train.txt -- Sample training data 
+-test.txt -- Sample test data
+-tagset.txt -- Explanation of the part-of-speech tags used
